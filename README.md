@@ -1,4 +1,4 @@
 esoteric
 ========
 
-ideas for esoteric programming languges
+ideas for esoteric programming languages.
